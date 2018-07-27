@@ -1,4 +1,4 @@
-package com.iuminov.interfaces;
+package com.newtest;
 
 public interface Operation<T> {
 

@@ -1,6 +1,6 @@
-package com.iuminov.classes;
+package com.newtest.impl;
 
-import com.iuminov.interfaces.Operation;
+import com.newtest.Operation;
 
 public class Addition implements Operation<Integer> {
     @Override
